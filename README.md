@@ -1,24 +1,90 @@
-# 💫 About Me:
-## 👋 Hi, I'm Badal<br><br>I'm a full stack developer 💻 who loves creating user-friendly web applications.<br><br>Currently focused on improving my skills and building cool projects 🚀  <br>Let's connect and build something great! 🤝<br>
+<!-- Header Typing Animation -->
+<h1 align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Badal+Roy;Full+Stack+Developer+💻;Problem+Solver+🚀)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im__badal2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badalroy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BadalRoy314786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:broy52092@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Badal-Roy2005&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Badal-Roy2005&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Badal-Roy2005&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Badal-Roy2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Badal-Roy2005&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2> 💫 About Me:</h2>
+
+Hi, I'm **Badal Roy** 👋  
+I'm a passionate **Full Stack Developer** who loves building clean, user-friendly, and scalable web applications.  
+Currently, I'm focused on **improving my skills**, working on **cool projects 🚀**, and exploring new technologies to grow as a developer.  
 
 
-![snake gif](https://github.com/Badal-Roy2005/Badal-Roy2005/blob/output/github-snake-dark.svg)
+
+---
+
+<h2> 🌐 Connect With Me:</h2>
+<p align="center">
+  <a href="https://instagram.com/im__badal2005"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/badalroy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/@BadalRoy314786"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="mailto:broy52092@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎬 Featured GIF
+<p align="center">
+  <!-- Replace the link below with your GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR2bmxlNXJ5cGpnamp0MzR3Y2x5eTlpZGE2MTh4eTU5ZGtkNW90cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqTguNdEoA1ooYxeog/giphy.gif" width="400" height="400" alt="Coding GIF"/>
+</p>
+
+
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2> 💻 Tech Stack:</h2>
+<p align="center">
+  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Badal-Roy2005&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Badal-Roy2005&theme=gruvbox&hide_border=true" height="180px"/>
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badal-Roy2005&theme=gruvbox&hide_border=true&layout=compact" height="180px"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Badal-Roy2005&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+## 🐍 Fun Animation
+<p align="center">
+  <img src="https://github.com/Badal-Roy2005/Badal-Roy2005/blob/output/github-snake-dark.svg" alt="snake animation"/>
+</p>
