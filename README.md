@@ -33,7 +33,7 @@ Currently, I'm focused on **improving my skills**, working on **cool projects ğŸ
 
 <td width="50%" valign="top">
 
-## ğŸ¬ Featured GIF
+
 <p align="center">
   <!-- Replace the link below with your GIF -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR2bmxlNXJ5cGpnamp0MzR3Y2x5eTlpZGE2MTh4eTU5ZGtkNW90cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqTguNdEoA1ooYxeog/giphy.gif" width="400" height="400" alt="Coding GIF"/>
@@ -84,7 +84,7 @@ Currently, I'm focused on **improving my skills**, working on **cool projects ğŸ
 
 ---
 
-## ğŸ Fun Animation
+
 <p align="center">
   <img src="https://github.com/Badal-Roy2005/Badal-Roy2005/blob/output/github-snake-dark.svg" alt="snake animation"/>
 </p>
