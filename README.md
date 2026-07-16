@@ -62,28 +62,6 @@ Currently, I'm focused on **improving my skills**, working on **cool projects �
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Badal-Roy2005&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false" height="180px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Badal-Roy2005&theme=gruvbox&hide_border=true" height="180px"/>
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badal-Roy2005&theme=gruvbox&hide_border=true&layout=compact" height="180px"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Badal-Roy2005&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
 
 <p align="center">
   <img src="https://github.com/Badal-Roy2005/Badal-Roy2005/blob/output/github-snake-dark.svg" alt="snake animation"/>
