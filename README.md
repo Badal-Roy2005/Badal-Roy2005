@@ -1,68 +1,127 @@
-<!-- Header Typing Animation -->
-<h1 align="center">
+<!-- ==================== HEADER ==================== -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Badal+Roy;Full+Stack+Developer+💻;Problem+Solver+🚀)](https://git.io/typing-svg)
+<div align="center">
 
-</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Badal+Roy+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%9A%80;Building+Projects+That+Solve+Problems" alt="Typing SVG" />
 
----
+  <p>
+    <b>Full Stack Developer | Competitive Programmer | Problem Solver</b>
+  </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+  <p>
+    I build practical web applications, solve algorithmic problems,
+    and continuously improve my engineering skills.
+  </p>
 
-<h2> 💫 About Me:</h2>
+  <p>
+    <a href="https://github.com/Badal-Roy2005">
+      <img src="https://img.shields.io/badge/GitHub-Badal--Roy2005-181717?style=flat-square&logo=github" alt="GitHub"/>
+    </a>
+    <a href="https://linkedin.com/in/badalroy">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/im__badal2005">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
 
-Hi, I'm **Badal Roy** 👋  
-I'm a passionate **Full Stack Developer** who loves building clean, user-friendly, and scalable web applications.  
-Currently, I'm focused on **improving my skills**, working on **cool projects 🚀**, and exploring new technologies to grow as a developer.  
-
-
-
----
-
-<h2> 🌐 Connect With Me:</h2>
-<p align="center">
-  <a href="https://instagram.com/im__badal2005"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/badalroy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/@BadalRoy314786"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="mailto:broy52092@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-
-<p align="center">
-  <!-- Replace the link below with your GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR2bmxlNXJ5cGpnamp0MzR3Y2x5eTlpZGE2MTh4eTU5ZGtkNW90cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqTguNdEoA1ooYxeog/giphy.gif" width="400" height="400" alt="Coding GIF"/>
-</p>
-
-
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<h2> 💻 Tech Stack:</h2>
-<p align="center">
-  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- ==================== ABOUT ME ==================== -->
 
-</p>
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student passionate about software development.
+- 💻 Building full-stack applications and exploring new technologies.
+- 🧠 Practicing Data Structures and Algorithms using C++.
+- 🚀 Interested in solving real-world problems through code.
+- 🐧 Linux user who enjoys exploring developer tools and workflows.
+- 📈 Focused on writing clean code, learning fundamentals, and building consistently.
 
 ---
 
+<!-- ==================== TECH STACK ==================== -->
 
-<p align="center">
-  <img src="https://github.com/Badal-Roy2005/Badal-Roy2005/blob/output/github-snake-dark.svg" alt="snake animation"/>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript&perline=5" alt="Programming languages"/>
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,nextjs&perline=7" alt="Web development technologies"/>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,git,github,linux,vscode&perline=8" alt="Databases and developer tools"/>
+
+</div>
+
+---
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Badal-Roy2005&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Badal's GitHub statistics"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badal-Roy2005&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages"/>
+
+</div>
+
+<div align="center">
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=Badal-Roy2005&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Badal-Roy2005&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Badal-Roy2005/Badal-Roy2005/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Badal-Roy2005/Badal-Roy2005/output/github-snake.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Badal-Roy2005/Badal-Roy2005/output/github-snake.svg" width="100%"/>
+  </picture>
+
+</div>
+
+---
+
+<!-- ==================== FOOTER ==================== -->
+
+<div align="center">
+
+  <p><b>Thanks for visiting my profile!</b></p>
+
+  <p>
+    <i>Keep learning. Keep building. Keep solving.</i>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Badal-Roy2005&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views"/>
+
+</div>
