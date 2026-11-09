@@ -88,11 +88,11 @@
 
 ## 📈 Contribution Activity
 
-<div align="center">
+<!-- <div align="center">
 
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Badal-Roy2005&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 
-</div>
+</div> -->
 
 ---
 
